@@ -1,7 +1,7 @@
 /*
 Project Name: JavaJam Coffee House (HW14)
 Author: Jennifer Chiang
-Date Last Modified: 4/17/2019
+Date Last Modified: 4/24/2019
 */
 
 /*body info*/
@@ -26,25 +26,7 @@ main { padding: 0em 0em 2em 0em;
 	   display: block;
 }
 /*descendant selectors*/
-main h2 { padding-left: 3em;
-		 padding-right: 2em;
-}
-main h3 { padding-left: 3em;
-		 padding-right: 2em;
-}
-main h4 { padding-left: 3em;
-		 padding-right: 2em;
-}
-main p { padding-left: 3em;
-		 padding-right: 2em;
-}
-main div { padding-left: 3em;
-		 padding-right: 2em;
-}
-main ul { padding-left: 3em;
-		 padding-right: 2em;
-}
-main dl { padding-left: 3em;
+main h2 , main h3, main h4, main p, main div, main ul, main dl { padding-left: 3em;
 		 padding-right: 2em;
 }
 
